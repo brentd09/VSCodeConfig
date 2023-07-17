@@ -1,0 +1,19 @@
+{
+    "workbench.colorTheme": "PowerShell ISE",
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "editor.tabSize": 2,
+    "scm.inputFontSize": 14,
+    "interactiveSession.editor.fontSize": 16,
+    "editor.tabCompletion": "on",
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#fafaed77",
+        "editor.selectionBackground": "#ff91004b",
+        "editor.selectionHighlightBackground": "#ffd57b18",
+        "editor.selectionHighlightBorder": "#0505052d",
+        "editor.wordHighlightBackground": "#02c44315",
+        "editor.wordHighlightTextBackground": "#02c5221e",
+        "editor.wordHighlightStrongBackground": "#3002fd0c"
+    }
+}
